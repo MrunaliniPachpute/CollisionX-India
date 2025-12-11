@@ -1,4 +1,4 @@
-# 🚦 **Smart Traffic Violation Pattern Detector Dashboard v0.1.0**
+# **Smart Traffic Violation Pattern Detector Dashboard v0.1.0**
 ### _by **CollisionX India**_
 
 <p align="center">
@@ -230,7 +230,7 @@ The dedicated team behind the **Smart Traffic Violation Pattern Detector Dashboa
 | :--- | :--- |
 | **Saidul Ali Mallick (Sami)** | **Team Lead & Lead Developer**. Initialized Main Repo, handled Architecture, Documentation, and **Map Visualization**. |
 | **Anshu Gupta** | **Developer & Git Specialist**. Managed Shared Repository, defined Branching Strategy, handled Merges, and **assisted with Frontend integration**. |
-| **Mrunalini M** | **Developer, UI/UX & Branding**. Created "CollisionX India" platform identity, Logo, and **Key Frontend Developer** for core UI pages. |
+| **Mrunalini P** | **Developer, UI/UX & Branding**. Created "CollisionX India" platform identity, Logo, and **Key Frontend Developer** for core UI pages. |
 | **Ishwari Deshmukh** | **Frontend Developer & Analyst**. Built visualization pages and handled Streamlit layout components. |
 | **Harika Sayani** | **Developer**. Contributed to page structure, HTML representation, and About page. |
 | **Divija V** | **Developer, Analyst & UI/UX**. Implemented Data Upload, Graphical Representations, Visualization Page UI, and file handling logic. |
