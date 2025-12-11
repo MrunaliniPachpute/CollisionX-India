@@ -1,9 +1,3 @@
-<h1 align="center" style="
-  animation: fadeIn 2s ease-in-out;
-">
-  Smart Traffic Violation Pattern Detector Dashboard v0.1.0
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=900&lines=Smart+Traffic+Violation+Pattern+Detector+Dashboard+v0.1.0;by+CollisionX+India" />
 </p>
