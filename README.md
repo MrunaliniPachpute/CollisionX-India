@@ -4,12 +4,10 @@
   Smart Traffic Violation Pattern Detector Dashboard v0.1.0
 </h1>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=900&lines=Smart+Traffic+Violation+Pattern+Detector+Dashboard+v0.1.0;by+CollisionX+India" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-CollisionX%20India-blue?style=for-the-badge&logo=streamlit" />
