@@ -1,8 +1,15 @@
 <h1 align="center" style="
   animation: fadeIn 2s ease-in-out;
 ">
-  🚦 Smart Traffic Violation Pattern Detector Dashboard v0.1.0
+  Smart Traffic Violation Pattern Detector Dashboard v0.1.0
 </h1>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-CollisionX%20India-blue?style=for-the-badge&logo=streamlit" />
