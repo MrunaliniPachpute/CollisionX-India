@@ -1,5 +1,8 @@
-# **Smart Traffic Violation Pattern Detector Dashboard v0.1.0**
-### _by **CollisionX India**_
+<h1 align="center" style="
+  animation: fadeIn 2s ease-in-out;
+">
+  🚦 Smart Traffic Violation Pattern Detector Dashboard v0.1.0
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-CollisionX%20India-blue?style=for-the-badge&logo=streamlit" />
